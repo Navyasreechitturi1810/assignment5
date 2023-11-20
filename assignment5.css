@@ -1,0 +1,79 @@
+
+#parent{
+    height: 95vh;
+    width: 30vw;
+    position: relative;
+    left: 37vw;
+    border: 2px solid black;
+    
+}
+#img{
+    border-radius: 10px;
+    position: relative;
+    left: 80px;
+    
+}
+h2{
+    text-align: center;  
+}
+.c1{
+    text-align: center;
+}
+#annual_plan{
+    border: 2px solid rgb(242, 240, 240);
+    background-color: rgb(250, 247, 247);
+    border-radius: 10px;
+    width: 25vw;
+    position: relative;
+    left:30px
+}
+i{
+    display: flex;
+    justify-content:start ;
+    font-size: 50px;
+    position: relative;
+    top: 25px;
+}
+p{
+    display: flex;
+    justify-content:center ;
+    position: relative;
+    bottom: 25px;
+}
+a{
+    position: relative;
+    justify-content: end;
+    
+}
+button{
+        background-color: blue;
+        color: white;
+        border-radius: 10px;
+        border: 2px solid blue;
+        height: 6vh;
+        width: 25vw;
+        text-align: center;
+        box-shadow: 2px 2px 5px blue;
+        position: relative;
+        left: 32px;
+    }
+    #label{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        left: 60px;
+        bottom: 25px;
+        
+        
+    
+    }
+    #plan{
+        color: blue;
+    }
+    a{
+        display: flex;
+        text-align: right;
+        position: relative;
+        bottom: 40px;
+        right: 10px;
+    }
